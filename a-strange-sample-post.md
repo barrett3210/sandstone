@@ -1,9 +1,8 @@
 ---
-layout: post
-title: "A strange sample post"
-description: "A way to try out some Markdown and test the blog layout"
-date:   2018-07-14 12:29:12 -0700
-categories: sample
+layout: default
+#title: "A strange sample post"
+#date:   2018-07-14 12:29:12 -0700
+#categories: sample
 ---
 
 I am trying out writing some text in Markdown for this. More text to try this thing out.  There needs to be a longer paragraph.  Why does Atom not wrap the text sooner?
